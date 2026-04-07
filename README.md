@@ -157,7 +157,8 @@ The following evidence should be included in the repository:
   ---
   
 - Exploitation session proof
-- https://github.com/cybereagle-tee/Penetration-Testing-Report-Metasploitable-Lab/blob/main/Screenshot%202026-04-01%20195849.png?raw=true
+- <img width="845" height="292" alt="image" src="https://github.com/user-attachments/assets/f055f944-02dc-4bd5-b7ee-bf30b8155482" />
+
 
   ---
   
