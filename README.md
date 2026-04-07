@@ -167,9 +167,9 @@ The following evidence should be included in the repository:
 
 ---
 
-- Verification of the newly created user account  
+- Verification of the newly created user account
+- <img width="738" height="322" alt="image" src="https://github.com/user-attachments/assets/0db59524-87b0-4300-a7ab-142adde80f6e" />
 
-All screenshots should be stored in a dedicated `/screenshots` directory.
 
 ---
 
