@@ -19,12 +19,12 @@ This assessment was performed strictly in a controlled and authorized environmen
 
 Lab Environment
 --
-- Attacker Machine:** Kali Linux  
-- Target Machine:** Metasploitable 2  
-- Attacker IP:** 192.168.56.102  
-- Target IP:** 192.168.56.101  
-- Network Mode:** Host-only / NAT  
-- Virtualization Platform:** VirtualBox  
+- Attacker Machine: Kali Linux  
+- Target Machine: Metasploitable 2  
+- Attacker IP: 192.168.56.102  
+- Target IP: 192.168.56.101  
+- Network Mode: Host-only / NAT  
+- Virtualization Platform: VirtualBox  
 
 Tools Used
 --
@@ -157,7 +157,7 @@ All screenshots should be stored in a dedicated `/screenshots` directory.
 
 ---
 
-## 📁 Project Structure
+📁 Project Structure
 
 penetration-testing-report/
 │
