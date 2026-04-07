@@ -148,10 +148,19 @@ The following evidence should be included in the repository:
 
 - Network discovery scan results
 - <img width="612" height="251" alt="image" src="https://github.com/user-attachments/assets/33872cef-16f8-425f-bb1a-9a9bf5db4067" />
+
+---
  
 - Full port and service scan outputs  
-- Vulnerability scan results  
-- Exploitation session proof  
+- Vulnerability scan results
+
+  ---
+  
+- Exploitation session proof
+- https://github.com/cybereagle-tee/Penetration-Testing-Report-Metasploitable-Lab/blob/main/Screenshot%202026-04-01%20195849.png?raw=true
+
+  ---
+  
 - Post-exploitation access confirmation  
 - Verification of the newly created user account  
 
