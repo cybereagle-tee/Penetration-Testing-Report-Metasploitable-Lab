@@ -163,7 +163,8 @@ The following evidence should be included in the repository:
   ---
   
 - Post-exploitation access confirmation
-- <img width="738" height="322" alt="image" src="https://github.com/user-attachments/assets/55d3a04c-1cdb-4188-a57c-b8f972cec9ff" />
+- <img width="544" height="178" alt="image" src="https://github.com/user-attachments/assets/88cb9e20-7793-4181-9cd1-95fac6669c4a" />
+
 
 ---
 
