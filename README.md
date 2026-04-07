@@ -2,8 +2,8 @@ Penetration-Testing-Report-Metasploitable-Lab
 --
 ---
 
-- Name: Treasure James (The Cybereagle). 
-- Date: 7/04/2026. 
+- Name: Treasure James (The Cybereagle)
+- Date: 7/04/2026
 
 ---
 
@@ -144,8 +144,6 @@ To mitigate the identified vulnerabilities, the following actions are recommende
 Evidence
 --
 
-The following evidence should be included in the repository:
-
 - Network discovery scan results
 - <img width="612" height="251" alt="image" src="https://github.com/user-attachments/assets/33872cef-16f8-425f-bb1a-9a9bf5db4067" />
 
@@ -180,19 +178,25 @@ The following evidence should be included in the repository:
 
 ---
 
-📁 Project Structure
+Project Structure
 
 penetration-testing-report/
+
 │
+
 ├── README.md
+
 ├── reports/
 │ └── final-report.pdf
+
 ├── screenshots/
 │ ├── scan_results.png
 │ ├── exploitation.png
 │ ├── session_access.png
 │ ├── user_creation.png
+
 │
+
 ├── scans/
 │ ├── full_scan.txt
 │ ├── vuln_scan.txt
