@@ -151,8 +151,13 @@ The following evidence should be included in the repository:
 
 ---
  
-- Full port and service scan outputs  
+- Full port and service scan outputs
+
+---
+
 - Vulnerability scan results
+- <img width="701" height="572" alt="image" src="https://github.com/user-attachments/assets/ca8b3d81-e9e5-4505-b2ce-5c8e48d95192" />
+
 
   ---
   
