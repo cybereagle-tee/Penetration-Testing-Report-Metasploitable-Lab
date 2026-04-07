@@ -179,6 +179,7 @@ Evidence
 ---
 
 Project Structure
+--
 
 penetration-testing-report/
 
@@ -187,19 +188,27 @@ penetration-testing-report/
 ├── README.md
 
 ├── reports/
+
 │ └── final-report.pdf
 
 ├── screenshots/
+
 │ ├── scan_results.png
+
 │ ├── exploitation.png
+
 │ ├── session_access.png
+
 │ ├── user_creation.png
 
 │
 
 ├── scans/
+
 │ ├── full_scan.txt
+
 │ ├── vuln_scan.txt
+
 │ ├── scan.xml
 
 
