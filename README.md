@@ -146,7 +146,9 @@ Evidence
 
 The following evidence should be included in the repository:
 
-- Network discovery scan results  
+- Network discovery scan results
+- <img width="612" height="251" alt="image" src="https://github.com/user-attachments/assets/33872cef-16f8-425f-bb1a-9a9bf5db4067" />
+ 
 - Full port and service scan outputs  
 - Vulnerability scan results  
 - Exploitation session proof  
