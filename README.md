@@ -152,6 +152,7 @@ The following evidence should be included in the repository:
 ---
  
 - Full port and service scan outputs
+- <img width="749" height="578" alt="image" src="https://github.com/user-attachments/assets/747a1f22-43fb-4538-b756-11c652b14586" />
 
 ---
 
